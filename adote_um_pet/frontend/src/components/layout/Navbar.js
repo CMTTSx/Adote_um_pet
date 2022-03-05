@@ -18,7 +18,7 @@ function Navbar() {
         <nav className={styles.navbar}>
             <Link to='/'><div className={styles.navbar_logo}>
                 <img src={Logo} alt="Get A Pet" />
-                <h2>Get A Pet</h2>
+                <h2>Adote um Pet</h2>
             </div></Link>
             <ul>
                 <li>
