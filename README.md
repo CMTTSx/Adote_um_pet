@@ -1,6 +1,6 @@
 # Adote_um_pet
 
-TECNOLOGIAS
+#TECNOLOGIAS
 
 1-REACT
 2-AXIOS
@@ -8,3 +8,5 @@ TECNOLOGIAS
 4-MONGODB
 5-NODEJS
 6-JWT
+
+Integração autenticação (JWT), Front-End(React), Banco de dados (MongoDB), Back-End(NodeJS)
