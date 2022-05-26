@@ -9,4 +9,4 @@
 5-NODEJS
 6-JWT
 
-Integração autenticação (JWT), Front-End(React), Banco de dados (MongoDB), Back-End(NodeJS)
+Integração autenticação (JWT), Front-End(React), Banco de dados (MongoDB), Back-End(NodeJS) e consumo de api via Axios
