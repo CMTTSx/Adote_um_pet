@@ -1,4 +1,5 @@
 # Adote_um_pet
+# FRONTEND E BACKEND utilizando API REST, Auth JWT.
 
 #TECNOLOGIAS
 
