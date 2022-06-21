@@ -1,5 +1,13 @@
-# Adote_um_pet
-# FRONTEND E BACKEND utilizando API REST, Auth JWT.
+# ADOTE UM PET
+
+
+📄 Resumo do Projeto 📄
+Site de adoção
+
+📖 Descrição do Projeto 📖
+Projeto site de adoção de Pet. versão básica para demonstração de habilidade nas tecnologias mencionadas.
+
+🛠️ Tecnologias aprendidas e utilizadas 🛠️
 
 #TECNOLOGIAS
 
@@ -10,4 +18,4 @@
 5-NODEJS
 6-JWT
 
-Integração autenticação (JWT), Front-End(React), Banco de dados (MongoDB), Back-End(NodeJS) e consumo de api via Axios
+Integração autenticação (JWT), Front-End(React), Banco de dados (MongoDB) e Mongoose, Back-End(NodeJS) e consumo de api via Axios.
