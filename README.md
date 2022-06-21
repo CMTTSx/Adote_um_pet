@@ -9,9 +9,7 @@ Site de adoção
 
 Projeto site de adoção de Pet. versão básica para demonstração de habilidade nas tecnologias mencionadas.
 
-🛠️ Tecnologias aprendidas e utilizadas 🛠️
-
-# TECNOLOGIAS
+# 🛠️ Tecnologias aprendidas e utilizadas 🛠️
 
 1-REACT
 2-AXIOS
