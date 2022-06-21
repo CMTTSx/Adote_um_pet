@@ -2,14 +2,16 @@
 
 
 📄 Resumo do Projeto 📄
+
 Site de adoção
 
-📖 Descrição do Projeto 📖
+📖 Descrição do Projeto 📖 
+
 Projeto site de adoção de Pet. versão básica para demonstração de habilidade nas tecnologias mencionadas.
 
 🛠️ Tecnologias aprendidas e utilizadas 🛠️
 
-#TECNOLOGIAS
+# TECNOLOGIAS
 
 1-REACT
 2-AXIOS
